@@ -1,0 +1,1 @@
+# arch-install-automated-manual-way-
